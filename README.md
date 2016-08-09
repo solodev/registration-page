@@ -1,5 +1,5 @@
-# registration-page
-Registration pages are the "make it or break it" web page of your website. This is where a user will decide whether or not to register for your product or service with all of the knowledge they have gained up to this point.
+# Effective Registration Page
+Registration pages are the "make it or break it" web page of your website. This is where a user will decide whether or not to register for your product or service with all of the knowledge they have gained up to this point. Feel free to use [Solodev's](https://www.solodev.com/) effective registration page as inspiration for your next project.
 
 ## Tutorial
 
